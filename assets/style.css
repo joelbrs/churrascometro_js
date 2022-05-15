@@ -1,0 +1,66 @@
+* {  
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+
+    background-color:antiquewhite;
+
+}
+
+.container {
+
+    background-color: aliceblue;
+
+    border-radius: 10px;
+
+    margin: 10% auto 0 auto;
+    padding: 30px 45px;
+    max-width: 300px;
+    
+}
+
+input {
+
+    width: 107%;
+
+    display: block;
+
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+h1 {
+
+    margin-bottom: 17px;
+}
+
+button {
+    font-weight: bold;
+
+    color: #fff;
+    background-color:darkslategrey;
+
+    border-radius: 10px;
+    border: none;
+
+    padding: 6px;
+}
+
+button:hover {
+
+    cursor: pointer;
+    opacity: 0.9;
+}
+
+#resultado {
+    margin-top: 10px;
+}
+
+p {
+    margin-bottom: 3px;
+}
